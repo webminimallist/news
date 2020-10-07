@@ -234,7 +234,7 @@ Features
       uk              Ukrainian
       vi              Vietnamese
       zh              Chinese
-
+      np              Nepali
 
 Get it now
 ----------
